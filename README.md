@@ -1,7 +1,7 @@
 ### 🙋🏻‍♂️ Hi, I’m @alan-fleming
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🏳️‍🌈
-- 📫 [Find me on Mastodon](https://mastodon.me.uk/@alanfleming)
+- 📫 <a rel="me" href="https://mastodon.me.uk/@alanfleming">I'm on Mastodon</a>
 - 🔗 [Ancient website is here](https://alanfleming.org)
 - 🔏 [Other proofs of ID on Keybase.io](https://keybase.io/alanfleming)
 
