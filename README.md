@@ -2,8 +2,8 @@
 
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🏳️‍🌈
 - 📫 <a rel="me" href="https://mastodon.me.uk/@alanfleming">I'm on Mastodon</a>
-- 🔗 [Ancient website is here](https://alanfleming.org)
-- 🔏 [Other proofs of ID on Keybase.io](https://keybase.io/alanfleming)
+- 🔗 <a rel="me" href="https://alanfleming.org">Ancient Website is here</a>
+- 🔏 <a rel="me" href="https://keybase.io/alanfleming">Other proofs of ID are on keybase.io</a>
 
 
 <!---
